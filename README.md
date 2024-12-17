@@ -407,7 +407,7 @@ project_root/
 │   │── 2-metaheurísticos.pdf
 │   └── 3-evolutivos.pdf
 │
-├── VRPTW Instances/
+├── instances/
 │   ├── VRPTW1.txt
 │   ├── VRPTW2.txt
 │   └── ...
