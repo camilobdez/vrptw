@@ -395,7 +395,7 @@ project_root/
 │   ├── 3-grasp.cpp
 │   ├── 4-parallel_sa.cpp
 │   ├── 5-parallel_vnd.cpp
-│   └── 6-ga.cpp
+│   └── 6-genetic-algorithm.cpp
 │
 ├── results/
 │   ├── 1-constructive.xlsx
@@ -405,7 +405,7 @@ project_root/
 ├── presentations/
 │   ├── 1-constructivos.pdf
 │   │── 2-metaheurísticos.pdf
-│   └── 3-evolutivo.pdf
+│   └── 3-evolutivos.pdf
 │
 └── README.md
 ```
