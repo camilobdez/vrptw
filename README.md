@@ -393,8 +393,8 @@ project_root/
 │   ├── 1-constructive.cpp
 │   │── 2-constructive-with-noise.cpp
 │   ├── 3-grasp.cpp
-│   ├── 4-parallel_sa.cpp
-│   ├── 5-parallel_vnd.cpp
+│   ├── 4-parallel-sa.cpp
+│   ├── 5-parallel-vnd.cpp
 │   └── 6-genetic-algorithm.cpp
 │
 ├── results/
